@@ -54,6 +54,14 @@ AKILA
   - [ ] Milestone & Activity List 
   - [ ] Sprint Delivery Plan
 
+- [ ] Setting Up of Environment
+  - [ ] Create Flask Project 
+  - [ ] Create IBM Cloud Account
+  - [ ] Install IBM Cloud CLI 
+  - [ ] Docker CLI Installation
+  - [ ] Create an Account in SendGrid 
+  - [ ] Create an Account in Nutrition API
+
 - [ ] Project Development Phase
   - [ ] Sprint 1
   - [ ] Sprint 2
