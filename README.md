@@ -5,11 +5,11 @@
 ### Tools :
 
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=4DB33D)
+![IBM Cloud Object Storage](https://img.shields.io/badge/IBM%20Cloud%20Object%20Storage-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=F05032)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%FCC624.svg?style=for-the-badge&logo=kubernetes&logoColor=black&color=FCC624)
 ![HTML](https://img.shields.io/badge/HTML-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![Javascript](https://img.shields.io/badge/Javascript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![IBM Cloud Object Storage](https://img.shields.io/badge/IBM%20Cloud%20Object%20Storage-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=F05032)
 ![Python Flask](https://img.shields.io/badge/Python%20Flask-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%FCC624.svg?style=for-the-badge&logo=kubernetes&logoColor=black&color=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-%7396.svg?style=for-the-badge&logo=docker&logoColor=white&color=007396)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-%1572B6.svg?style=for-the-badge&logo=ibm&logoColor=white&color=61DBFB)
 ![IBM Container Registry](https://img.shields.io/badge/IBM%20Container%20Registry-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=563D7C)
