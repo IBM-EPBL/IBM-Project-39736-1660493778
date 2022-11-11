@@ -50,9 +50,9 @@ AKILA
   - [x] Data Flow Daigrams
   - [x] Technology Architecture
 
-- [ ] Project Planning Phase
-  - [ ] Milestone & Activity List 
-  - [ ] Sprint Delivery Plan
+- [x] Project Planning Phase
+  - [x] Milestone & Activity List 
+  - [x] Sprint Delivery Plan
 
 - [ ] Setting Up of Environment
   - [ ] Create Flask Project 
