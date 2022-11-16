@@ -55,18 +55,18 @@ AKILA
   - [x] Sprint Delivery Plan
 
 - [x] Setting Up of Environment
-  - [ ] Create Flask Project 
+  - [x] Create Flask Project 
   - [x] Create IBM Cloud Account
   - [x] Install IBM Cloud CLI 
   - [ ] Docker CLI Installation
-  - [ ] Create an Account in SendGrid 
-  - [ ] Create an Account in Nutrition API
+  - [x] Create an Account in SendGrid 
+  - [x] Create an Account in Nutrition API
 
-- [ ] Project Development Phase
-  - [ ] Sprint 1
-  - [ ] Sprint 2
-  - [ ] Sprint 3
-  - [ ] Sprint 4
+- [x] Project Development Phase
+  - [x] Sprint 1
+  - [x] Sprint 2
+  - [x] Sprint 3
+  - [x] Sprint 4
 
 
 
