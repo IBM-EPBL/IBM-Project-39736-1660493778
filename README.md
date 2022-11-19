@@ -58,7 +58,7 @@ AKILA
   - [x] Create Flask Project 
   - [x] Create IBM Cloud Account
   - [x] Install IBM Cloud CLI 
-  - [ ] Docker CLI Installation
+  - [x] Docker CLI Installation
   - [x] Create an Account in SendGrid 
   - [x] Create an Account in Nutrition API
 
@@ -67,7 +67,19 @@ AKILA
   - [x] Sprint 2
   - [x] Sprint 3
   - [x] Sprint 4
-
+  
+- [x] Implementing Web Application 
+  - [x] Create UI To Interact With Application 
+  - [x] Create IBM DB2 And Connect With Python 
+  - [x] Integrate Nutrition API
+  
+- [x] Intergrating SendGrid Service 
+  - [x] SendGrid Integration With Python Code 
+  
+- [x] Deployment Of App In IBM Cloud
+  - [x] Upload image to IBM Container Registry
+  - [x] DEPLOY IN KUBERNETES CLUSTER
+  - [x] Containerize The App
 
 
 
